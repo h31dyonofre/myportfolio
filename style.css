@@ -3,8 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 } */
+
 body {
-    background-image: url("/images/newdesktop.svg");
+    /* background-image: url("/images/newdesktop.svg"); */
     width: 100%;
     margin: 0;
     padding:0;
@@ -299,7 +300,7 @@ padding-top: 20px;
     display: flex;
     justify-content: center;
     align-content: center;
-    margin-top: 100px;
+    /* margin-top: 100px; */
 }
 
 .button {
